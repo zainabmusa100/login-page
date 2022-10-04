@@ -1,0 +1,51 @@
+
+body{
+	background-color: black;
+margin-top: 60px;
+
+}
+h1{
+	color: black;
+	font-size: 30px;
+	padding: 0;
+}
+.container{
+	background-color:white;
+	width: 20%;
+	text-align: center;
+	margin-left: 40%;
+	margin-top: 0;
+	padding: 50px 30px 50px 30px;
+
+}
+.in{
+	width: 100%;
+	margin-bottom:20px ;
+	margin-top: 20px;
+	background-color:ash;
+	padding: 4px 4px;
+
+}
+.for{
+	font-size: 16px;
+}
+.sub{
+	background-color: blue;
+	color: black;
+	font-size: 16px;
+	padding: 5px 5px;
+	width: 40%;
+	
+}
+.email-eror{
+	border-style:dotted;
+	color: red;
+	display: none;
+	margin-bottom: 20px;
+
+}
+.pass-eror{
+	border-style:dotted;
+	color: red;
+	display: none;
+	margin-bottom: 30px;
